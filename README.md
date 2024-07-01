@@ -49,7 +49,7 @@ This project is aimed at developing a RESTful APIs.
 ## Usage
 
 1. Make sure the server is running.
-2. Use [rest.http](/Users/zaineelmithani/RestApi/rest.http) to understand the available endpoints and their usage.
+2. Use [rest.http](/nodeJS_mongoose/rest.http) to understand the available endpoints and their usage.
 
 ## Contributing
 
@@ -57,11 +57,7 @@ Contributions are welcome! Please follow the guidelines outlined in [CONTRIBUTIN
 
 ## License
 
-This project is licensed under the MIT. See the [LICENSE](/LICENSE) file for more details.
-
-## Contributing
-
-Contributions are welcome! Please follow the guidelines outlined in [CONTRIBUTING.md](link-to-contributing-guidelines).
+This project is licensed under the MIT. See the [LICENSE](/nodeJS_mongoose/LICENSE) file for more details.
 
 ## License
 
