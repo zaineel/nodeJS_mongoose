@@ -1,8 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const Product = require("../Models/Product.model");
-const createError = require("http-errors");
-const mongoose = require("mongoose");
+
 const ProductController = require("../Controllers/Product.controller");
 
 router.get("/", ProductController.getAllProducts);

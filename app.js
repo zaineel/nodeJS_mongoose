@@ -8,8 +8,6 @@ const dotenv = require("dotenv").config();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// mongodb+srv://zain:<>@cluster0.ugeq3sq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-// 61Pz9eIXf6NQ5nTq
 mongoose
   .connect(process.env.MONGODB_URI, {
     dbName: process.env.DB_NAME,
