@@ -1,7 +1,7 @@
 # RESTful API Template
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[!GitHub issues](https://img.shields.io/github/issues/zaineel/nodeJS_mongoose)
+[![GitHub issues](https://img.shields.io/github/issues/zaineel/nodeJS_mongoose)]
 
 ## Description
 
