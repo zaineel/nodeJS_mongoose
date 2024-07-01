@@ -1,0 +1,43 @@
+GET http://localhost:3000/products
+
+### create a product
+POST http://localhost:3000/products
+Content-Type: application/json  
+
+{
+    "name": "Iphone 17 pro max",
+    "price": 1599
+}
+
+### get a product by ID
+GET http://localhost:3000/products/6682380d4f5c3bd772731507
+
+### udate a product by ID
+PATCH  http://localhost:3000/products/66823739964cb552c804daa5
+Content-Type: application/json
+
+{
+    "name": "Iphone 15",
+    "price": 1399
+}
+
+### delete a product by ID
+DELETE http://localhost:3000/products/6681efe1deba76b8c297992
+
+### 
+GET http://localhost:3000/
+
+###
+POST http://localhost:3000/test
+Content-Type: application/json
+
+{
+    "name": "imac pro",
+    "price": 2399
+}
+
+###
+POST http://localhost:3000/test
+Content-Type: application/x-www-form-urlencoded
+
+name=imac-pro&price=2399
