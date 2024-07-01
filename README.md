@@ -1,11 +1,11 @@
 # RESTful API Template
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/username/repo-name)](
+[!GitHub issues](https://img.shields.io/github/issues/zaineel/nodeJS_mongoose)
 
 ## Description
 
-This project is aimed at developing a RESTful API for [insert project description here].
+This project is aimed at developing a RESTful APIs.
 
 ## Features
 
@@ -31,4 +31,4 @@ Contributions are welcome! Please follow the guidelines outlined in [CONTRIBUTIN
 
 ## License
 
-This project is licensed under the [ISC]. See the [LICENSE](link-to-license-file) file for more details.
+This project is licensed under the MIT. See the [LICENSE](link-to-license-file) file for more details.
